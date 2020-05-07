@@ -16,7 +16,7 @@ def getSubsequence(str)
   end
 
   for i in recAns
-    myans.push(ch+i);
+    myans.push(ch+i)
   end
 
   return myans;
